@@ -1,0 +1,15 @@
+title: dev [INFRASTRUCTURE]
+email: "junior.jairo1@gmail.com"
+description: >
+  Desenvolvimento de software. Práticas ágeis e DevOps.
+baseurl: ""
+url: "jairojunior.github.io"
+github_username:  jairojunior
+
+markdown: kramdown
+theme: minima
+gems:
+  - jekyll-feed
+exclude:
+  - Gemfile
+  - Gemfile.lock
