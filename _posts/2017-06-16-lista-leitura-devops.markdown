@@ -134,3 +134,43 @@ A ideia desta lista de leitura é te ajudar a contruir fundamentos sobre o que �
 - Disponível gratuitamente [online](https://landing.google.com/sre/book/index.html)
 
 - [Review completo por Fernando Ike](https://medium.com/@fernandoike/site-reliability-engineer-sre-b9440f02ca26)
+
+
+**The Practice of Cloud System Administration: DevOps and SRE Practices for Web Services, Volume 2** (*Thomas A. Limoncelli, Strata R. Chalup, Christina J. Hogan*): Detalhes por trás de decisões arquiteturais para sistemas distribuídos de alto desempenho/escalabilidade/resiliência. Lean e TPS traduzido para o seu dia a dia, práticas para melhorar o feedback de Ops para Dev e uma infinidade de experiências compartilhadas pelos  autores - responsáveis pelos maiores sistemas que conhecemos e utilizamos o tempo todo. O que você realmente deveria estar olhando para alcançar seus requisitos? Monitore e planeje sua capacidade de forma eficiente.
+
+> **Citações**:
+
+* *"The technical term for improving something through repetition is called “practice.” We strongly believe that practice makes perfect."*
+
+* *"That may sound a little boring but actually it is quite exciting to work where the entire company is focused and working together on the same goals."*
+
+* *"Mistakes, bugs, and errors happen, of course—and as a result defects are passed down the line to the next stage."*
+
+* *"typical response to a risky process is to do it as rarely as possible. Thus there is a temptation to do as few releases as possible. The result is “mega-releases” launched only a few times a year."*
+
+* *"The software is instrumented so that it can be monitored. Data is collected about how long it takes to process transactions from external users as well as from internal APIs. Other indicators such as memory usage are also monitored. This data is collected so that operational decisions can be made based on data, not guesses, luck, or hope."*
+
+* *"Outages are followed by the publication of a postmortem report with recommendations on how to improve the system in the future. Any “quick fix” is followed by a root causes analysis and the implementation of a long-term fix."*
+
+* *"In distributed systems, failure is normal. Hardware failures that are rare, when multiplied by thousands of machines, become common. Therefore failures are assumed, designs work around them, and software anticipates them. Failure is an expected part of the landscape."*
+
+* *"Pick a few common transactions and break them down into smaller steps, and then estimate how long each step will take."*
+
+* *"Developers also participate in the oncall rotation so they understand the operational pain points of the system they are building."*
+
+**Infrastructure as Code: Managing Servers in the Cloud** (Kief Morris): Desafios, princípios e práticas para Infraestrutura como código. Relatório do estado da prática em plataforma de infraestrutura dinâmica (i.e. Cloud), ferramentas de definição de infraestrutura, gerência de configuração de servidores e serviços genéricos de infraestrutura.
+Padrões de provisionamento de serviços e gerenciamento de mudanças - mutável X imutável. Uso de práticas de engenharia de softwara para desenvolvimento de infraestrutura, VCS, CI/CD, testes automatizados e etc.
+
+**Building Microservices: Designing Fine-Grained Systems** (*Sam Newman*): Microservices apresentaram como [requisitos](https://martinfowler.com/bliki/MicroservicePrerequisites.html) diversas práticas provenientes da cultura DevOps (provisionamento e deployment rápido, monitoramento e [etc](http://philcalcado.com/2017/06/11/calcados_microservices_prerequisites.html)). Entender as necessidades que movem o time de desenvolvimento a entregar cada vez mais rápido, bem como os desafios desta abordagem - que contraria o senso comum do modelo tradicional de operações - é essencial independente do seu papel no time.
+
+> **Citações**:
+
+* *"The golden rule: can you make a change to a service and deploy it by itself without changing anything else? If the answer is no, then many of the advantages we discuss throughout this book will be hard for you to achieve."*
+
+* *"With a monolithic application, if I want to try a new programming language, database, or framework, any change will impact a large amount of my system. With a system consisting of multiple services, I have multiple new places in which to try out a new piece of technology."*
+
+* *"To ensure our microservice systems can properly embrace this improved resilience, we need to understand the new sources of failure that distributed systems have to deal with. Networks can and will fail, as will machines. We need to know how to handle this, and what impact (if any) it should have on the end user of our software."*
+
+* *"If you work at a medium-size or bigger organization, chances are you are aware of some big, nasty legacy system sitting in the corner. The one no one wants to touch. The one that is vital to how your company runs, but that happens to be written in some odd Fortran variant and runs only on hardware that reached end of life 25 years ago. Why hasn’t it been replaced? You know why: it’s too big and risky a job."*
+
+* *"The microservice approach has emerged from real-world use, taking our better understanding of systems and architecture to do SOA well. So you should instead think of microservices as a specific approach for SOA in the same way that XP or Scrum are specific approaches for Agile software development."*
