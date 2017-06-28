@@ -2,7 +2,7 @@
 layout: post
 title:  "Types e Providers Explicado"
 date:   2017-06-10 19:00:00 -0300
-categories: jekyll update
+categories: puppet dev
 ---
 
 Se você trabalha com Puppet há um certo tempo **TEM** que entender como *Types* e *Providers* funcionam.
@@ -139,7 +139,7 @@ O Puppet possui um modelo bem definido para tratar esse problema, e funciona mui
 
 Em breve a construção de types e providers será facilitada com o [pdk - Puppet Development Kit](https://github.com/puppetlabs/pdk) - que também irá permitir que parâmetros e propriedades sejam tipados, eliminando a necessidade de validação/coerção de tipos.
 
-Apesar destas mudanças, os conceitos fundamentais aqui explicados serão mudarão.
+Apesar destas mudanças, os conceitos fundamentais aqui explicados não mudarão.
 
 *Requisitos:* Ruby
 
