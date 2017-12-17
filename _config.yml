@@ -5,6 +5,7 @@ description: >
 baseurl: ""
 url: "jairojunior.github.io"
 github_username:  jairojunior
+future: false
 
 markdown: kramdown
 theme: minima
