@@ -253,4 +253,4 @@ before_install:
 script:
   - molecule test
 ```
-Resultado: https://travis-ci.org/jairojunior/ansible-role-jboss/builds/345731738 (:
+[Resultado](https://travis-ci.org/jairojunior/ansible-role-jboss/builds/345731738)
