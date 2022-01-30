@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Trabalho na Amazon Web Services e anteriormente na *Red Hat* - e sou apaixonado por OSS (Open Source Software) e comunidades, não importa a plataforma - GitHub, Telegram, Slack, Lista de E-mail e meetups. Debater e compartilhar ideias sempre resulta em algo melhor.
+Trabalho na *Amazon Web Services* e anteriormente na *Red Hat* - e sou apaixonado por OSS (Open Source Software) e comunidades, não importa a plataforma - GitHub, Telegram, Slack, Lista de E-mail e meetups. Debater e compartilhar ideias sempre resulta em algo melhor.
 
 Tenho 12 anos de experiência com desenvolvimento de software, principalmente com desenvolvimento backend - sistemas/serviços Web, *messaging* e processamento batch - com fortes requisitos de desempenho e escalabilidade. Não me importa se esses sistemas são em Java, .NET, Ruby, Python ou Go, eu vivo pelos dois princípios descritos em *Language Wars* [1].
 
