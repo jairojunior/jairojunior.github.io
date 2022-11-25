@@ -15,3 +15,14 @@ Por último, prefiro ler uma saída de *log*, *tcpdump* ou *sar* do que acredita
 ~ J. Junior
 
 [1] https://www.joelonsoftware.com/2006/09/01/language-wars/
+
+## [Publicações](/publicacoes)
+
+- [Continuous Delivery of Amazon EKS Clusters using AWS CDK and CDK Pipelines - AWS Blog](https://aws.amazon.com/blogs/containers/continuous-delivery-of-amazon-eks-clusters-using-aws-cdk-and-cdk-pipelines/)
+- [Usando AWS IoT Core e Amazon Opensearch para Monitorar Transformadores de Distribuição de Energia - AWS Blog](https://aws.amazon.com/pt/blogs/aws-brasil/usando-aws-iot-core-e-amazon-opensearch-service-para-monitorar-transformadores-de-distribuicao-de-energia/)
+- [Migrando o SEEU para a AWS - AWS Blog](https://aws.amazon.com/pt/blogs/aws-brasil/migracao-do-sistema-eletronico-de-execucao-unificado-seeu-para-aws/)
+- [Arquitetura do PJe na AWS - AWS Blog](https://aws.amazon.com/pt/blogs/aws-brasil/arquitetura-do-pje-processo-judicial-eletronico-na-aws/)
+- [Arquitetura do SEI na AWS - AWS Blog](https://aws.amazon.com/pt/blogs/aws-brasil/arquitetura-do-sei-sistema-eletronico-de-informacoes-na-aws/)
+- [Testing Ansible Roles with Molecule - opensource.com](https://opensource.com/article/18/12/testing-ansible-roles-molecule)
+- [Automating deployment strategies with Ansible - opensource.com](https://opensource.com/article/19/1/automating-deployment-strategies-ansible)
+- [What you need to know about Ansible modules - opensource.com](https://opensource.com/article/19/3/developing-ansible-module)
