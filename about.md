@@ -16,7 +16,7 @@ Por último, prefiro ler uma saída de *log*, *tcpdump* ou *sar* do que acredita
 
 [1] https://www.joelonsoftware.com/2006/09/01/language-wars/
 
-## [Blog Posts](/blog-posts)
+## [Blog Posts](#blog-posts)
 
 - [Continuous Delivery of Amazon EKS Clusters using AWS CDK and CDK Pipelines - AWS Blog](https://aws.amazon.com/blogs/containers/continuous-delivery-of-amazon-eks-clusters-using-aws-cdk-and-cdk-pipelines/)
 - [Usando AWS IoT Core e Amazon Opensearch para Monitorar Transformadores de Distribuição de Energia - AWS Blog](https://aws.amazon.com/pt/blogs/aws-brasil/usando-aws-iot-core-e-amazon-opensearch-service-para-monitorar-transformadores-de-distribuicao-de-energia/)
@@ -27,7 +27,7 @@ Por último, prefiro ler uma saída de *log*, *tcpdump* ou *sar* do que acredita
 - [Automating deployment strategies with Ansible - opensource.com](https://opensource.com/article/19/1/automating-deployment-strategies-ansible)
 - [What you need to know about Ansible modules - opensource.com](https://opensource.com/article/19/3/developing-ansible-module)
 
-## [Open Source](/open-source)
+## [Open Source](#open-source)
 
 - [Continuous Delivery of Amazon EKS Clusters using CDK Pipelines](https://github.com/aws-samples/aws-cdk-pipelines-eks-cluster)
 - [Scheduled Aurora Clone with Step Functions](https://github.com/aws-samples/aws-stepfunctions-aurora-clone)
@@ -36,7 +36,7 @@ Por último, prefiro ler uma saída de *log*, *tcpdump* ou *sar* do que acredita
 - [Ansible's JBoss/Wildfly Remote Management Modules](https://github.com/jairojunior/ansible-role-jboss)
 - [Puppet JBoss/Wildfly Approved module (140k downloads)](https://github.com/biemond/biemond-wildfly)
 
-## [Conferências](/conferencias)
+## [Conferências](#conferencias)
 
 - Project "Zero Paper": No Paper and No Servers (AWS re:Invent 2021)
 - Migrating "SEEU" (National judicial system) to AWS (AWS Summit 2021)
@@ -48,7 +48,7 @@ Por último, prefiro ler uma saída de *log*, *tcpdump* ou *sar* do que acredita
 - Infrastructure Tests in Practice (DevOpsDays BSB 2017) 
 - Developing Ansible Modules (DevOpsDays SSA 2017)
 
-## [Certificações](/certificacoes)
+## [Certificações](#certificacoes)
 
 Credenciais: [Credly](https://www.credly.com/users/jairo-da-silva-junior/badges) e [Accredible](https://www.credential.net/profile/jairodasilvajunior/wallet)
 
