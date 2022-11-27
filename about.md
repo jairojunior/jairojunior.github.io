@@ -36,7 +36,7 @@ Por último, prefiro ler uma saída de *log*, *tcpdump* ou *sar* do que acredita
 - [Ansible's JBoss/Wildfly Remote Management Modules](https://github.com/jairojunior/ansible-role-jboss)
 - [Puppet JBoss/Wildfly Approved module (140k downloads)](https://github.com/biemond/biemond-wildfly)
 
-## [Conferências](#conferencias)
+## [Conferências](#conferências)
 
 - Project "Zero Paper": No Paper and No Servers (AWS re:Invent 2021)
 - Migrating "SEEU" (National judicial system) to AWS (AWS Summit 2021)
@@ -48,7 +48,7 @@ Por último, prefiro ler uma saída de *log*, *tcpdump* ou *sar* do que acredita
 - Infrastructure Tests in Practice (DevOpsDays BSB 2017) 
 - Developing Ansible Modules (DevOpsDays SSA 2017)
 
-## [Certificações](#certificacoes)
+## [Certificações](#certificações)
 
 Credenciais: [Credly](https://www.credly.com/users/jairo-da-silva-junior/badges) e [Accredible](https://www.credential.net/profile/jairodasilvajunior/wallet)
 
