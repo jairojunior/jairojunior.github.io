@@ -25,7 +25,7 @@ Por último, prefiro ler uma saída de *log*, *tcpdump* ou *sar* do que acredita
 - [Arquitetura do SEI na AWS - AWS Blog](https://aws.amazon.com/pt/blogs/aws-brasil/arquitetura-do-sei-sistema-eletronico-de-informacoes-na-aws/)
 - [Testing Ansible Roles with Molecule - opensource.com](https://opensource.com/article/18/12/testing-ansible-roles-molecule)
 - [Automating deployment strategies with Ansible - opensource.com](https://opensource.com/article/19/1/automating-deployment-strategies-ansible)
-- [What you need to know about Ansible modules - opensource.com](https://opensource.com/article/19/3/developing-ansible-module)
+- [What you need to know about Ansible modules - opensource.com](https://opensource.com/article/19/3/developing-ansible-modules)
 
 ## [Open Source](#open-source)
 
