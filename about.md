@@ -52,6 +52,7 @@ Por último, prefiro ler uma saída de *log*, *tcpdump* ou *sar* do que acredita
 
 Credenciais: [Credly](https://www.credly.com/users/jairo-da-silva-junior/badges) e [Accredible](https://www.credential.net/profile/jairodasilvajunior/wallet)
 
+- HashiCorp Certified: Terraform Associate
 - Google Cloud Certified - Professional Cloud Database Engineer
 - Google Cloud Certified - Professional Cloud Data Engineer
 - Google Cloud Certified - Professional Cloud DevOps Engineer
