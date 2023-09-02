@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Trabalho no *Google Cloud* e anteriormente *Amazon Web Services* e *Red Hat* - e sou apaixonado por OSS (Open Source Software) e comunidades, não importa a plataforma - GitHub, Telegram, Slack, Lista de E-mail e meetups. Debater e compartilhar ideias sempre resulta em algo melhor.
+Trabalho na *Digibee (iPaaS)* e anteriormente: *Google Cloud*, *Amazon Web Services* e *Red Hat* - e sou apaixonado por OSS (Open Source Software) e comunidades, não importa a plataforma - GitHub, Telegram, Slack, Lista de E-mail e meetups. Debater e compartilhar ideias sempre resulta em algo melhor.
 
 Tenho 12 anos de experiência com desenvolvimento de software, principalmente com desenvolvimento backend - sistemas/serviços Web, *messaging* e processamento batch - com fortes requisitos de desempenho e escalabilidade. Não importa se esses sistemas são em Java, Python, Go, Ruby ou .NET, eu vivo pelos dois princípios descritos em *Language Wars* [1].
 
